@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhaocheng Zhang"
   avatar           : "profile.png"
-  bio              : 
+  bio              : "PhD candidate in Economics"
   location         : "Cambridge, U.K."
   employer         :
   pubmed           : 
@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -227,7 +230,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
       type: research
