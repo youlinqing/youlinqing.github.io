@@ -17,9 +17,12 @@ author_profile: true
 {% endfor %}
 -->
 
-## Publications
-xxx
+* Publications
 
-## Working Papers
+  1. x
+  
+  2. y
 
-## Work in Progress
+* Working Papers
+
+* Work in Progress
