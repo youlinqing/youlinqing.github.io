@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhaocheng Zhang"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Zhaocheng Zhang"
 description              : &description "PhD candidate at University of Cambridge"
