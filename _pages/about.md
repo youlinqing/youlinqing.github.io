@@ -14,4 +14,4 @@ I am a PhD candidate at Faculty of Economics, University of Cambridge.
 
 My research interests are apllied econometrics and empirical finance.
 
-Email: <u><a href="{{mailto:zz391@cam.ac.uk}}">zz391@cam.ac.uk</a>.</u>
+Email: [zz391@cam.ac.uk](mailto:zz391@cam.ac.uk)
