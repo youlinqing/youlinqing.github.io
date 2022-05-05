@@ -10,10 +10,10 @@ redirect_from:
 
 <br />
 
-I am a PhD candidate at Faculty of Economics, University of Cambridge.
+I am a PhD candidate at Faculty of Economics, University of Cambridge, supervised by [Prof. Oliver Linton](https://www.econ.cam.ac.uk/people/faculty/obl20).
 
 <!-- I received my PhD from xx in xx.-->
 
-My research interests are financial econometrics, network and machine learning.
+My research interests are financial econometrics, economic networks and operations-finance interface.
 
 Email: [zz391@cam.ac.uk](mailto:zz391@cam.ac.uk)
