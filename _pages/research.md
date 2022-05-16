@@ -20,7 +20,7 @@ author_profile: true
 ## Publications
 
 * [Credit Rating Prediction Through Supply Chains: A Machine Learning Approach](https://doi.org/10.1111/poms.13634) (with Jing Wu and Sean X. Zhou)\
-    ***Production and Operations Management***, forthcoming
+    ***Production and Operations Management***, Volume 31, Issue 4, April 2022, Pages 1613-1629
 
 <!--
 ## Working Papers
