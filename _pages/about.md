@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhang, Zhaocheng 张兆成"
+title: "Zhang, Zhaocheng (张兆成)"
 excerpt: "Zhang, Zhaocheng"
 author_profile: true
 redirect_from: 
