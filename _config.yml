@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Zhaocheng Zhang"
+  name             : "Zhaocheng Zhang"
   avatar           : "WechatIMG1.jpeg"
-  bio              : #"PhD candidate in Economics"
+  bio              : "PhD candidate in Economics"
   location         : "Cambridge, U.K."
   employer         :
   pubmed           : 
