@@ -1,3 +1,5 @@
+<!--
+
 ---
 title: "Archive Layout with Content"
 layout: archive
@@ -175,3 +177,5 @@ This allows you to denote <var>variables</var>.
 {% for post in site.pages %}
 {% include archive-single.html %}
 {% endfor %}
+
+-->
