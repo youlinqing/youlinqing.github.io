@@ -22,12 +22,14 @@ author_profile: true
 * [Credit Rating Prediction Through Supply Chains: A Machine Learning Approach](https://doi.org/10.1111/poms.13634) (with Jing Wu and Sean X. Zhou)\
     ***Production and Operations Management***, Volume 31, Issue 4, April 2022, Pages 1613-1629
 
-<!--
+
 ## Working Papers
 
 
 ## Work in Progress
 
-* Characteristic-based factor models for matrix-valued high-dimensional time series with application to supply chain networks
+* A network characteristic-based factor model for supply chain evolution
+* Mergers and GP outcomes in England
+<!--
 * GARCH Model with Network Innovation
 -->
