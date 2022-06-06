@@ -59,4 +59,4 @@ Service and leadership
 * Currently signed in to 43 different slack teams
 -->
 
-[Curriculum Vitae](https://zhaocheng-zhang.github.io/files/paper1.pdf)
+[Curriculum Vitae](https://zhaocheng-zhang.github.io/files/cv_zhaocheng.pdf)
