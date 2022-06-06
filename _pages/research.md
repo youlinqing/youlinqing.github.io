@@ -30,6 +30,4 @@ author_profile: true
 
 * A network characteristic-based factor model for supply chain evolution
 * Mergers and GP outcomes in England
-<!--
 * GARCH Model with Network Innovation
--->
