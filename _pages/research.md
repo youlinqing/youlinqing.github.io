@@ -28,7 +28,7 @@ author_profile: true
 
 ## Work in Progress
 
-* A characteristic-based network factor model for supply chain evolution
-* GARCH Model with Network Innovation
-* Mergers and GP outcomes in England
+* Semiparametric Network Factor Model for Supply Chain Evolution
+* GARCH Model with Network Spillover Effects
+* Mergers and GP Outcomes in England
 
