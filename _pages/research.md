@@ -28,7 +28,7 @@ author_profile: true
 
 ## Work in Progress
 
-* Semiparametric Network Factor Model for Supply Chain Evolution
-* GARCH Model with Network Spillover Effects
+* A Semiparametric Network Factor Model for Supply Chain Evolution
+* Network MGARCH Model
 * Mergers and GP Outcomes in England
 
