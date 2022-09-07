@@ -22,4 +22,4 @@ author_profile: true
 * **E300 Econometrics**  
   &emsp; 2021/22 Compulsory course for MPhil in Economics and MPhil in Finance and Economics
 * **Paper 9 Industry - Empirical Part**  
-  &emsp; 2020/21 Undergradute course
+  &emsp; 2020/21 Undergraduate course
