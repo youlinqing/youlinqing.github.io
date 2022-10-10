@@ -28,7 +28,7 @@ author_profile: true
 
 ## Work in Progress
 
-* A Semiparametric Network Factor Model for Supply Chain Evolution
+* A Semiparametric Tensor Factor Model with Time-Varying Covariates
 * Network MGARCH Model
 * Mergers and GP Outcomes in England
 
