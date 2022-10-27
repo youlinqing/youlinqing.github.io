@@ -15,7 +15,7 @@ I am a PhD candidate in Economics at Peking University HSBC Business School. I w
 
 <!-- I received my PhD from xx in xx.-->
 
-My research interest is Macro-Finance, Corporate Finance and Macroeconomics.
+My research interest is Macro Finance, Corporate Finance and Macroeconomics.
 
 Email: [youlinqing@pku.edu.cn](mailto:youlinqing@pku.edu.cn)
 
