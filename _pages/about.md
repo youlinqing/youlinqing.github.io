@@ -1,25 +1,21 @@
 ---
 permalink: /
-title: "Zhang, Zhaocheng (张兆成)"
-excerpt: "Zhang, Zhaocheng"
+title: "Linqing You"
+excerpt: "You, Linqing"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<br/>
 
-<br />
+I am a PhD candidate in Economics at Peking University HSBC Business School. I will be on the 2022-2023 job market.
 
-I am a PhD candidate at Faculty of Economics, University of Cambridge, supervised by [Prof. Oliver Linton](https://www.econ.cam.ac.uk/people/faculty/obl20).
+
 
 <!-- I received my PhD from xx in xx.-->
 
-My research interests are financial econometrics, economic networks and operations-finance interface.
+My research interest is Macro-Finance, Corporate Finance and Macroeconomics.
 
-<br />
+Email: [youlinqing@pku.edu.cn](mailto:youlinqing@pku.edu.cn)
 
-Faculty of Economics<br>
-Austin Robinson Building<br>
-Sidgwick Avenue<br>
-Cambridge, CB3 9DD<br>
-Email: [zz391@cam.ac.uk](mailto:zz391@cam.ac.uk)
