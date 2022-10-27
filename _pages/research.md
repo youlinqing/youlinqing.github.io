@@ -1,15 +1,10 @@
 
-
 ---
 layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<style>
-body {
-text-align: justify}
-</style>
 
 <!--
 {% if author.googlescholar %}
@@ -22,7 +17,6 @@ text-align: justify}
   {% include archive-single.html %}
 {% endfor %}
 -->
-
 <!--## Publications
 
 * [Credit Rating Prediction Through Supply Chains: A Machine Learning Approach](https://doi.org/10.1111/poms.13634) (with Jing Wu and Sean X. Zhou)\
