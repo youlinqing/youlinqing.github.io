@@ -15,11 +15,7 @@ author_profile: true
 
 ## University of Peking University HSBC Business School
 
-* **Macroeconomics**  
-  &emsp; 2020/21
-* **International Finance**  
-  &emsp; 2021/22 
-* **Financial History**  
-  &emsp; 2020/21
-* **Investment**  
-  &emsp; 2021/22 
+* **Macroeconomics**, 2020/21
+* **International Finance**, 2021/22 
+* **Financial History**, 2020/21   
+* **Investment**, 2021/22
