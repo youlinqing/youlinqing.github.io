@@ -9,7 +9,7 @@ redirect_from:
 ---
 <br/>
 
-I am a PhD candidate in Economics at Peking University HSBC Business School. I will be on the 2022-2023 job market.
+I am a Ph.D. candidate in Economics at Peking University HSBC Business School. I will be on the 2022-2023 job market.
 
 
 
