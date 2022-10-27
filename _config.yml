@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Zhaocheng Zhang"
-description              : &description "PhD candidate at University of Cambridge"
-url                      : https://zhaocheng-zhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Linqing You"
+description              : &description "PhD candidate at Peking University"
+url                      : https://youlinqing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : zhaocheng-zhang/zhaocheng-zhang.github.io
+repository               : "youlinqing.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhaocheng Zhang"
-  avatar           : "WechatIMG1.jpeg"
-  bio              : "PhD candidate in Economics"
-  location         : "Cambridge, U.K."
+  name             : "Linqing You"
+  avatar           : "you.jpg"
+  bio              : "Ph.D. candidate in Economics"
+  location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5U-TxWgAAAAJ&hl=en"
-  email            : "zz391@cam.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Zhaocheng-Zhang-4"
+  googlescholar    : 
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhaocheng-zhang"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhaocheng-jerry-zhang-51192ab5"
-  orcid            : "http://orcid.org/0000-0001-8803-021X"
+  linkedin         :
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -181,9 +181,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  research:
-    output: true
-    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -230,15 +227,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _research
-  - scope:
-      path: ""
-      type: research
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
@@ -271,19 +259,19 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-#plugins:
-#  - jekyll-paginate
-#  - jekyll-sitemap
-#  - jekyll-gist
-#  - jekyll-feed
-#  - jekyll-redirect-from
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
 # mimic GitHub Pages with --safe
-#whitelist:
-#  - jekyll-paginate
-#  - jekyll-sitemap
-#  - jekyll-gist
-#  - jekyll-feed
-#  - jemoji
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 
 # Archives
